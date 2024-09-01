@@ -10,3 +10,4 @@
 
 ### Полезные ссылки
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+- [Генератор файла .gitignore] (https://www.toptal.com/developers/gitignore?ysclid=m0jp8h70zl115674830)
